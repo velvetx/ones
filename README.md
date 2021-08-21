@@ -13,6 +13,7 @@ For console use:
 ------
 
 <h3>Usage</h3>
+
 * `ones -с [number of names and surnames] -p [path to save the result]`
 
 Or just run:
