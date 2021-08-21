@@ -4,6 +4,7 @@ A simple program that collects Russian names and surnames.
 
 ------
 <h3>Installation</h3>
+
 * `git clone https://github.com/velvetxq/ones`
 * `pip3 install -r requirements.txt`
 
