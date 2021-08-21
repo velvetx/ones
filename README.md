@@ -18,4 +18,3 @@ For console use:
 
 Or just run:
 * `python3 ones.py -с [number of names and surnames] -p [path to save the result]`
-------
